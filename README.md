@@ -83,7 +83,3 @@ The Assistive Communication System helps differently-abled users communicate eas
 - 📍 Live GPS Tracking
 - 📹 Video Calling Support
 - 🌐 Multi-Language Support
-
-## ⭐ If you like this project
-
-Give this repository a ⭐ on GitHub.
